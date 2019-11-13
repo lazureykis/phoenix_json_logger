@@ -1,6 +1,6 @@
 # PhoenixJsonLogger
 
-**TODO: Add description**
+Phoenix logging in JSON format.
 
 ## Installation
 
